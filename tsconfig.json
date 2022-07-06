@@ -23,10 +23,7 @@
         "./*"
       ]
     },
-    "types": [
-      "@nuxt/types",
-      "@types/node"
-    ]
+    "types": ["@types/node", "@nuxt/vue-app", "@types/jest"]
   },
   "exclude": [
     "node_modules",
